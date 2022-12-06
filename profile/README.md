@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Medical & Manufacturing Inovation (MedMaIn) Labs  👋
 
 <!--
 
